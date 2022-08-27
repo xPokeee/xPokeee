@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm xPoke_</h1>
 <h3 align="center">A java learner</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:484372334032191509)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:484372334032191509)](https://discord.com/users/:484372334032191509)
 
 
 <h3 align="left">Connect with me:</h3>
