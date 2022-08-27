@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm xPoke_</h1>
 <h3 align="center">A java learner</h3>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:484372334032191509)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/484372334032191509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="484372334032191509" height="30" width="40" /></a>
