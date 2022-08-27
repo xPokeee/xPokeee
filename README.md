@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm xPoke_</h1>
 <h3 align="center">A java learner</h3>
 
+<img src="https://camo.githubusercontent.com/d4881ad021acd8be9ff20c0e1dca4ac4fc566cb5c6d8d790217d587d3ab07440/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d312f3831373339343438353033373130353135332e706e67">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
