@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xPoke_</h1>
 <h3 align="center">A java learner</h3>
 
-<img src="https://discord.c99.nl/widget/theme-1/484372334032191509.png">
+<img src="https://discord.c99.nl/widget/theme-4/484372334032191509.png">
 
 
 <h3 align="left">Connect with me:</h3>
