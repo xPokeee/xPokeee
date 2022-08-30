@@ -4,9 +4,9 @@
 <img src="https://discord.c99.nl/widget/theme-4/484372334032191509.png">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
-<h3 align="center">xPoke_#0074</h3></a>
+<h3 align="left">Discord:</h3><h3 align="center">xPoke_#0074</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
