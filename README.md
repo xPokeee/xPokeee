@@ -6,7 +6,8 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<h3 align="left">Discord:</h3><h3 align="center">xPoke_#0074</h3>
+<h3 align="left">Discord:</h3><h3 align="center">xPoke_#0074</h3><h3 ahref="https://dc.xpoke.space> / Serwer Discord</h3>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
