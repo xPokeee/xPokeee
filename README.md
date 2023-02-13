@@ -4,10 +4,11 @@
 <img src="https://discord.c99.nl/widget/theme-4/484372334032191509.png">
 
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<h3 align="left">Discord:</h3><h3 align="center">xPoke_#0074</h3>
-<h3 align="left">Serwer Discord: <a href="https://dc.xpoke.space", align="center">Link</h3></h3>
+<h3 align="left">Discord: <h3 align="center">xPoke_#0074</h3></h3>
+<h3 align="left">Discord server: <a href="https://dc.xpoke.space", align="center">𝘤𝘭𝘪𝘤𝘬</h3></h3>
+<h3 align="left">Instagram: <a href="https://www.instagram.com/xpoke_/", align="center">𝘤𝘭𝘪𝘤𝘬</h3>
 
 </p>
 
