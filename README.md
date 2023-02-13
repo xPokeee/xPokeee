@@ -6,9 +6,9 @@
 
 <h1 align="center">𝐒𝐎𝐂𝐈𝐀𝐋𝐒</h3>
 <p align="left">
-<h3 align="left"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="10" height="10"/> 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 » <a align="center">xPoke_#0074</a></h3>
-<h3 align="left">𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐒𝐄𝐑𝐕𝐄𝐑 » <a href="https://dc.xpoke.space", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
-<h3 align="left">𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 » <a href="https://www.instagram.com/xpoke_/", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
+<h3 align="left"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="10" height="10"/>  𝐃𝐈𝐒𝐂𝐎𝐑𝐃 » <a align="center">xPoke_#0074</a></h3>
+<h3 align="left"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="10" height="10"/>  𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐒𝐄𝐑𝐕𝐄𝐑 » <a href="https://dc.xpoke.space", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
+<h3 align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="10" height="10"/> 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 » <a href="https://www.instagram.com/xpoke_/", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
 
 </p>
 
