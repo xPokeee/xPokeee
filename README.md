@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xPoke_</h1>
-<h3 align="center">A java learner</h3>
+<h3 align="center">A starting developer</h3>
 
 <img src="https://discord.c99.nl/widget/theme-3/484372334032191509.png">
 
