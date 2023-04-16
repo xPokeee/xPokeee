@@ -13,4 +13,6 @@
 </p>
 
 <h3 align="left">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zoupl&psig=AOvVaw1ZxMZsu20z0evbM8Ej-2-o&ust=1681725662564000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIivk7qSrv4CFQAAAAAdAAAAABAE" alt="sql" width="40" height="40"/>
+</p>
