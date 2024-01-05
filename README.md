@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm xPoke_</h1>
-<h3 align="center">A starting developer</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maciej
+==============================================================================================================================
+
+📌 Warsaw, Poland
+
+* 🖥️  See my portfolio at [xPoke.xyz](http://xpoke.xyz)
+* 🧠  I'm learning JavaScript, HTML & CSS
 
 <img src="https://discord.c99.nl/widget/theme-3/484372334032191509.png">
 
+### Skills
 
-<h1 align="center">𝐒𝐎𝐂𝐈𝐀𝐋𝐒</h3>
+
 <p align="left">
-<h3 align="left"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="20" height="20"/> Discord DM » <a align="center">xpoke_</a></h3>
-<h3 align="left"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="20" height="20"/> Discord Server » <a href="https://dc.xpoke.space", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
-<h3 align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="20" height="20"/> Instagram (private) » <a href="https://www.instagram.com/xpoke_/", align="center">𝘤𝘭𝘪𝘤𝘬</a></h3>
-
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-<h3 align="left">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒:</h3>
-<p align="left"> <a href="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" alt="sql" width="40" height="40"/>
-</p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/xpoke_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/xpokeee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/xpoke_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p><p align="left"> <a href="https://dc.xpoke.xyz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /></picture></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/xpokeee"><img src="https://github-readme-stats.vercel.app/api?username=xpokeee&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=10b981&bg_color=27272a&hide_border=true&show_icons=true" alt="xpokeee's GitHub stats" /></a>
+
+<a href="https://github.com/xpokeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpokeee&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
