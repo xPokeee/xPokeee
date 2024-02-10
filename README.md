@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [xPoke.xyz](http://xpoke.xyz)
 * 🧠  I'm learning JavaScript, HTML & CSS
 
-<img src="https://discord.c99.nl/widget/theme-3/484372334032191509.png">
+<img src="https://discord.c99.nl/widget/theme-3/1202637345602543736.png">
 
 ### Skills
 
