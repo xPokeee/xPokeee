@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 📌 Warsaw, Poland
 
-* 🖥️  See my portfolio at [xPoke.xyz](https://xpoke.xyz)
+* 🖥️  See my portfolio at [xPoke.xyz](https://www.xpoke.xyz)
 * 🧠  I'm learning JavaScript, HTML & CSS
 
 <img src="https://discord.c99.nl/widget/theme-3/1202637345602543736.png">
