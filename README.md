@@ -1,6 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maciej
 ==============================================================================================================================
 
+<style>
+        .social-icons img {
+            height: 50px;
+            width: 50px;
+            margin-right: 10px; /* Spacing between icons */
+        }
+    </style>
+
 📌 Warsaw, Poland
 
 * 🖥️  See my portfolio at [xPoke.xyz](https://www.xpoke.xyz)
