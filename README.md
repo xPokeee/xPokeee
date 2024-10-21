@@ -8,13 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
+<!-- GitHub -->
 <a href="https://github.com/xpokeee" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 50px; width: 50px; margin-right: 10px;" alt="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 50px; width: 50px; margin-right: 10px; filter: invert(1);" alt="GitHub">
 </a>
 
 <!-- Instagram -->
 <a href="https://instagram.com/xpoke_" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" style="height: 50px; width: 50px; margin-right: 10px;" alt="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" style="height: 50px; width: 50px; margin-right: 10px; filter: invert(1);" alt="Instagram">
 </a>
 
 <!-- Discord -->
